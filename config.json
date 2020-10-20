@@ -1,0 +1,19 @@
+{
+    "xtb_user" : "11470702",
+    "xtb_pwd" : "aA15021991Aa@",
+    "symbol": "EURUSD",
+    "symbol_factor":1000,
+    "symbol_truncate":5,
+    "timeframe":15,
+    "interval": "month",
+    "period": 3,
+    "ohcl_folder":"history",
+    "features": [
+        "rsi",
+        "acc",
+        "mom",
+        "oa"
+    ]
+ 
+    
+}
