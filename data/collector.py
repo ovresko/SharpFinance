@@ -6,7 +6,7 @@ import csv
 import os
 import threading
 
-
+""" Some erroirs still exists """
 class Collector():
     def __init__(self,config):        
         self.config = config
